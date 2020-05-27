@@ -1,5 +1,5 @@
 currency-exchange-service.h2.console.enabled: true
-currency-exchange-service.datasource.url: "jdbc:h2:mem:currency_exchangeDb;DB_CLOSE_DELAY=-1"
+currency-exchange-service.datasource.url: "jdbc:h2:mem:currency_exchange;DB_CLOSE_DELAY=-1"
 ##currency-exchange-service.datasource.url: "jdbc:h2:file:~/currency_exchange;"
 currency-exchange-service.datasource.username: sa
 currency-exchange-service.datasource.password:
