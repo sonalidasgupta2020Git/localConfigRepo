@@ -1,0 +1,6 @@
+login.datasource.url: "jdbc:h2:mem:test"
+login.datasource.username: sa
+login.datasource.password:
+login.h2.console.enabled: true
+
+
