@@ -1,10 +1,6 @@
-login.datasource.url=jdbc:h2:mem:test
-login.datasource.driverClassName=org.h2.Driver
-login.datasource.username=sa
-login.datasource.password=
-login.jpa.database-platform=org.hibernate.dialect.H2Dialect
-login.h2.console.enabled=true
-login.h2.console.path=/h2
-
+login.datasource.url: "jdbc:h2:mem:test"
+login.datasource.username: sa
+login.datasource.password:
+login.h2.console.enabled: true
 
 
